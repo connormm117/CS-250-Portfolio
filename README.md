@@ -5,15 +5,11 @@ This repository contains selected work from **CS-250: Software Development Lifec
 The course focused on applying **Agile methodology**—specifically the Scrum framework—to real-world software development projects.  
 This project demonstrates my ability to collaborate effectively in a Scrum team, adapt to evolving requirements, and deliver high-quality software increments.
 
-## 📂 Featured Artifact
-**Sprint Review & Retrospective** – A comprehensive reflection on my role as Scrum Master during the SNHU Travel project.  
-This document summarizes:
-- The contributions of each Scrum role to project success
-- The completion of user stories in an Agile environment
-- Adaptation to mid-project scope changes
-- Communication strategies for effective teamwork
-- Organizational tools and Scrum principles that drove productivity
-- A balanced evaluation of the Agile process
+---
+
+## 📂 Portfolio Artifacts
+- **[Sprint Review & Retrospective (DOCX)](Sprint_Review_and_Retrospective.docx)** – Reflection on Scrum roles, user story completion, handling interruptions, communication strategies, organizational tools, and evaluation of the Agile process.
+- **[Agile Presentation (PPTX)](Agile_Presentation.pptx)** – Slide deck explaining Scrum-Agile roles, phases of the SDLC, comparison with Waterfall, and lessons learned from the SNHU Travel project.
 
 ---
 
